@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable-xhdpi/ic_baseline_person_24.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable-xhdpi/ic_home.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable-xhdpi/ic_profile.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ic_home.xml" value="0.2265" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ic_image.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ic_internet.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ic_plus.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ic_profile.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ll_bottom_border.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ll_bottom_border_disabled.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/ll_bottom_border_primary.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/s_search.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/drawable/sr_edit_text.xml" value="0.1955" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/activity_main.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/dialog_profile_creation.xml" value="0.264" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_home.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_info.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_loading.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_new_profile.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_no_internet.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_product_list.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_product_parser.xml" value="0.11302083333333333" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_product_parser2.xml" value="0.11302083333333333" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_profuct_list.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/fragment_search.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/layout/list_item.xml" value="0.20969202898550723" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projects/android_project/ZooShop/app/src/main/res/menu/menu_search_view.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

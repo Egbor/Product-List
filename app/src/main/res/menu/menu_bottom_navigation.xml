@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/page_name_home"/>
+    <item
+        android:id="@+id/page_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="@string/page_name_search"/>
+    <item
+        android:id="@+id/page_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/page_name_profile"/>
+    <item
+        android:id="@+id/page_info"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:title="Info"/>
+</menu>

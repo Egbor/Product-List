@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZooShop</string>
+    <string name="page_name_home">Home</string>
+    <string name="page_name_search">Search</string>
+    <string name="page_name_profile">Profile</string>
+    <string name="page_name_info">Info</string>
+    <string name="tab_name_dog">Dog</string>
+    <string name="tab_name_cat">Cat</string>
+    <string name="search_title">Search</string>
+    <string name="edit_hint_firstname">First name</string>
+    <string name="edit_hint_lastname">Last name</string>
+    <string name="edit_hint_email">E-mail</string>
+    <string name="button_create">Create</string>
+    <string name="button_sign_out">Sign out</string>
+    <string name="info_created_textview">Created by</string>
+    <string name="info_author_textview">Borsukov Egor, 951007</string>
+</resources>
